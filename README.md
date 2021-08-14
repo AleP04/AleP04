@@ -7,7 +7,7 @@
 -  ☕ I’m currently learning Java and Kotlin
 - 👯 I’m collaborating with [@Sfabio1920](https://github.com/Sfabio1920)
 - 🧮 My first project is the [LineCalculator App](https://github.com/AleP04/LineCalc), currently active
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to learn new things, code and play the guitar
 
 #
 
@@ -23,9 +23,12 @@
 
 <br />
 
+###   ​
+
+
 ### Connect with me:
 
-[<img align="left" alt="AlePDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AlePasqui04)
-[<img align="left" alt="AlePDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/pasqui.ale04/)
+[<img align="left" alt="AlePDev | Twitter" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AlePasqui04)
+[<img align="left" alt="AlePDev | Instagram" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/pasqui.ale04/)
 
 <br />
