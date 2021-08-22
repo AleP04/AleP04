@@ -32,3 +32,12 @@
 [<img align="left" alt="AlePDev | Instagram" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/pasqui.ale04/)
 
 <br />
+
+###   ​
+
+#
+
+
+
+[![AleP04's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleP04&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
