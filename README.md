@@ -26,7 +26,7 @@
 
 <img align="left" alt="Git" width="76px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
-<img align="left" alt="GitHub" width="76px" src="https://banner2.cleanpng.com/20180716/tza/kisspng-github-computer-icons-clip-art-gits-5b4d20ab1f4131.145288281531781291128.jpg" />
+<img align="left" alt="GitHub" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
 
 <br />
 
