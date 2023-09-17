@@ -1,13 +1,11 @@
 ### Hi there, I'm Alessandro - aka [AleP04] 👋
 
 
+## I'm a Computer Engineering student at Unibo, graduated in Computer Science at IIS Belluzzi, Bologna!
 
-## I'm an IT Student and IIS Belluzzi, Bologna!!
-
-- 🏃‍♀️ I am currently involved in the BTT project, coming soon
--  ☕ I’m currently learning Java and Kotlin
-- 👯 I’m collaborating with [@Sfabio1920](https://github.com/Sfabio1920)
-- 🧮 My first project is the [LineCalculator App](https://github.com/AleP04/LineCalc), currently active
+[//]: # (- 🏃‍♀️ I am currently involved in the BTT project, coming soon)
+-  ☕ I’m currently involved in projects using Vue.js, the Ionic framework and other web technologies
+- 🧮 One of my most interesting projects is [TryToEscape](https://github.com/AleP04/trytoescape.github.io)
 - ⚡ Fun fact: I love to learn new things, code and play the guitar
 
 #
@@ -26,7 +24,34 @@
 
 <img align="left" alt="Git" width="76px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
-<img align="left" alt="GitHub" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
+<img align="left" alt="GitHub" width="76px" src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png" />
+
+<img align="left" alt="GitHub" width="76px" src="https://www.geekandjob.com/uploads/wiki/f236a1aa005ef9a93041f294749e86d1.png" />
+
+<img align="left" alt="GitHub" width="76px" src="https://q2i8y8f7.rocketcdn.me/wp-content/uploads/2023/06/Iconic.webp" />
+
+<img align="left" alt="GitHub" width="76px" src="https://www.geekandjob.com/uploads/wiki/5fd2279663a119d26b5924521938d9eb.png" />
+
+<br />
+
+###   ​
+###   
+
+<img align="left" alt="GitHub" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" />
+
+<img align="left" alt="GitHub" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" />
+
+<img align="left" alt="GitHub" width="100px" src="https://www.geekandjob.com/uploads/wiki/eceb15684d4183c66f73c1a9bb777eef708b2b66.png" />
+
+<img align="left" alt="GitHub" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
+
+<img align="left" alt="GitHub" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" />
+
+<img align="left" alt="GitHub" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" />
+
+<img align="left" alt="GitHub" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+
+<img align="left" alt="GitHub" width="80px" src="https://i.redd.it/tu3gt6ysfxq71.png" />
 
 <br />
 
